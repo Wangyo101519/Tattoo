@@ -1,5 +1,5 @@
 body{
-	background-image: url("../img/bg.jpg") ;
+	background-image: url("../IMG/bg.jpg") ;
 	background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -16,7 +16,7 @@ body{
 
 }
 .logo{
-	background: url("../img/logo1.webp") no-repeat center;
+	background: url("../IMG/logo1.webp") no-repeat center;
 	width: 300px;
 	height: 110px;
 	float: left;
@@ -85,14 +85,14 @@ margin: 0 auto;
 	margin: 0 auto;
 	width: 333px;
 	height: 187px;
-	background: url("../img/midbox1.jpg");
+	background: url("../IMG/midbox1.jpg");
 	float: left;
 }
 .midbox2{
 	margin: 0 auto;
 	width: 333px;
 	height: 187px;
-	background: url("../img/midbox2.jpg");
+	background: url("../IMG/midbox2.jpg");
 	float: left;
 }
 .midbox3{
@@ -100,7 +100,7 @@ margin: 0 auto;
 	width: 334px;
 	height: 187px;
 	float: right;
-	background: url("../img/midbox3.jpg");
+	background: url("../IMG/midbox3.jpg");
 }
 h1 {
     font-family: 'Poppins', sans-serif, 'arial';
@@ -232,7 +232,7 @@ input[type=checkbox]:checked + label {
 .footer {
   position: relative;
   width: 100%;
-  background: url("../img/foot.gif");
+  background: url("../IMG/foot.gif");
   background-size: 100% 100%;
   min-height: 0px;
   padding: 15px 2px;
